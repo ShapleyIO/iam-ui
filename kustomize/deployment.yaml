@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: iam-ui
-        image: shapl3y/iam-ui:latest
+        image: shapley/iam-ui:latest
         ports:
         - containerPort: 8080
